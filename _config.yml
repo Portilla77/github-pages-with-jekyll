@@ -1,4 +1,4 @@
-title: "Prueba"	
+title: Post prueba	
 date: 2021-02-05
 author: Jorge Portilla
 email: athan.phi@outlook.com
@@ -10,3 +10,5 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 show_excerpts: true # set to false to remove excerpts on the homepage
 _config.yml: 
 theme: minima
+title: Post prueba	
+date: 2021-02-05
